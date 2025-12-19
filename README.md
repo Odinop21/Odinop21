@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=odinop21" alt="odinop21" /></a> </p>
 
-- 🌱 I’m currently learning **Devops,MachineLearning,**
+- 🌱 I’m currently learning **Devops,Machine Learning**
 
-- 💬 Ask me about **Tech**
+- 💬 Ask me about **Tech,Science,Artificial inteligence** 
 
 - 📫 How to reach me **pratush.gouda@gmail.com**
 
