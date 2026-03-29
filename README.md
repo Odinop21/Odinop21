@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=odinop21" alt="odinop21" /></a> </p>
 
-- 🌱 I’m currently learning **Devops,Machine Learning**
+- 🌱 I’m currently learning **Devops**
 
 - 💬 Ask me about **Tech,Science,Artificial inteligence** 
 
